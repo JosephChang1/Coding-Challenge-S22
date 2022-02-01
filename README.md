@@ -29,3 +29,9 @@ Submissions will be evaluated holistically and based on a combination of effort,
 **You may use any programming language you feel most comfortable. We recommend Python because it is the easiest to implement. You're allowed to use any library or API you want to implement this, just document which ones you used in this README file.** Try to complete this as soon as possible.
 
 Regardless if you can or cannot answer the question, provide a short explanation of how you got your solution or how you think it can be solved in your README.md file. However, we highly recommend giving the challenge a try, you just might learn something new!
+
+##Explaination
+https://machinelearningmastery.com/feature-selection-with-categorical-data
+https://towardsdatascience.com/the-complete-beginners-guide-to-data-cleaning-and-preprocessing-2070b7d4c6d
+
+I have no experience with binary classification, so I start by searching for resources online. At first, I just google "binary classification python" (I am familiar with python), but the result was not helpful because our data is categorical instead of numerical. Therefore, i google "binary classification with categorical data" and found some useful tutorials. The most helpful tutorial is a tutorial in Machine Learning Mastery website, which basically helped me walk through the program. When I was setting up, an unexpected obstacle is the data processing. Data processing is an important part of machine learning and it took me a while to finally set up the data with the help of the other source.
