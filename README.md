@@ -30,7 +30,7 @@ Submissions will be evaluated holistically and based on a combination of effort,
 
 Regardless if you can or cannot answer the question, provide a short explanation of how you got your solution or how you think it can be solved in your README.md file. However, we highly recommend giving the challenge a try, you just might learn something new!
 
-##Explaination
+## Explaination
 https://machinelearningmastery.com/feature-selection-with-categorical-data
 https://towardsdatascience.com/the-complete-beginners-guide-to-data-cleaning-and-preprocessing-2070b7d4c6d
 
