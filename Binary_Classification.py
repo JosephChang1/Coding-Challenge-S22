@@ -42,7 +42,7 @@ X_train_fs = fs.transform(X_train_enc)
 X_test_fs = fs.transform(X_test_enc)
 for i in range(len(fs.scores_)):
 	print('Feature %d: %f' % (i, fs.scores_[i]))
-    
+print()
 # plot the scores
 plt.bar([i for i in range(len(fs.scores_))], fs.scores_)
 plt.show()
